@@ -1,5 +1,6 @@
 a=3
 b=5
-print(a+b)
+c=3
+print (a+b+c)
 
-#output 8
+#output 11 
